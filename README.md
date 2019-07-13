@@ -2,7 +2,7 @@
 
 # Whats this?
 A proof-of-concept Obfuscator for traditional SourcePawn syntax.
-
+This is mostly just a archive to store GPLv3 projects which have been modified and the program executable itself.
 
 # Features
 - Renaming
@@ -17,7 +17,7 @@ A proof-of-concept Obfuscator for traditional SourcePawn syntax.
 - Shuffle Functions
 - Optimizations
 - Stack Trace decoder
-- Debug-Removal & Invalid-Debug (Modified SourcePawn Compiler 1.6.3)
+- Debug-Removal & Invalid-Debug ([Modified SourcePawn Compiler 1.6.3](/sourcemod/modified-sourcemod-sourcemod-1.6.3.zip))
 
 # Pictures
 ### StartPage
