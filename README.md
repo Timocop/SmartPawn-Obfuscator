@@ -4,6 +4,11 @@
 A proof-of-concept Obfuscator for traditional SourcePawn syntax.
 This is mostly just a archive to store GPLv3 projects which have been modified and the program executable itself.
 
+## Anti-Virus false positive detections
+This is an Obfuscator and might be used for malicious purposes.
+Therefore, the SmartPawn binary could be marked as malicious even though it does no malicious acts.
+If you are still concerned, you can run SmartPawn in a Sandbox program (*Sandboxie*) or Virtual Machine (*VirtualBox, VMware*).
+
 # Features
 - Renaming
 - Constant Disintegration
