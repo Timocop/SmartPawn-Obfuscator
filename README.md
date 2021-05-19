@@ -1,4 +1,4 @@
-![](https://i.imgur.com/6x1CUHC.png)
+![](https://user-images.githubusercontent.com/22834512/118812837-d5758080-b8ae-11eb-98a4-c087b8216d45.png)
 
 # Whats this?
 A proof-of-concept Obfuscator for traditional SourcePawn syntax.
@@ -21,10 +21,12 @@ This is an Obfuscator and might be used for malicious purposes. Therefore, the S
 - Optimizations
 - Stack Trace decoder
 - Debug-Removal & Invalid-Debug ([Modified SourcePawn Compiler 1.6.3](/sourcemod/modified-sourcemod-sourcemod-1.6.3.zip))
+- Anti-Debugger
 
 # Pictures
 ### StartPage
-![](https://i.imgur.com/VxERfqV.png)
-![](https://i.imgur.com/kwzRSpq.png)
+![](https://user-images.githubusercontent.com/22834512/118812228-2fc21180-b8ae-11eb-8119-07affc236b0d.png)
+![](https://user-images.githubusercontent.com/22834512/118812241-318bd500-b8ae-11eb-862f-80f763e0252b.png)
+
 ### Obfuscation Example (Normal Preset)
-![](https://i.imgur.com/2Be6yXL.png)
+![](https://user-images.githubusercontent.com/22834512/118812731-b1b23a80-b8ae-11eb-9eba-53d0c25a9be2.png)
